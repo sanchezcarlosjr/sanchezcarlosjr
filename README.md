@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm friend, revolutionary and startup developer.
+🙋 I'm friend, revolutionary and startup developer.
 
 I help high tech startups to create successful products and happy customers like machine learning engineer, full-stack developer, and product manager. If you either need a piece of advice about them or you need to connect with others on Linkedin, tell me. 
 
