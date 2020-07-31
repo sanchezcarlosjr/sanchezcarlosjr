@@ -1,9 +1,16 @@
 ### Hi there 👋
+I'm friend, revolutionary and startup developer.
+
+I help high tech startups to create successful products and happy customers like machine learning engineer, full-stack developer, and product manager. If you either need a piece of advice about them or you need to connect with others on Linkedin, tell me. 
+
+📫 How to reach me:
+[Youtube](https://x.sanchezcarlosjr.com/youtube)
+[Web](https://sanchezcarlosjr.com/)
+[Twitter](https://x.sanchezcarlosjr.com/twitter)
 
 <!--
 **sanchezcarlosjr/sanchezcarlosjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I help high tech startups to create successful products and happy customers like machine learning engineer, full-stack developer, and product manager. If you either need a piece of advice about them or you need to connect with others on Linkedin, tell me. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
