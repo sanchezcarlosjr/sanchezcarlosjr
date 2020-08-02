@@ -3,6 +3,8 @@
 
 I help high tech startups to create successful products and happy customers like machine learning engineer, full-stack developer, and product manager. If you either need a piece of advice about them or you need to connect with others on Linkedin, tell me. 
 
+[![Resume](http://img.youtube.com/vi/z5k5sTBLxo4/0.jpg)](http://www.youtube.com/watch?v=z5k5sTBLxo4 "How to create a resume?")
+
 📫 How to reach me:
 [Youtube](https://x.sanchezcarlosjr.com/youtube)
 [Web](https://sanchezcarlosjr.com/)
