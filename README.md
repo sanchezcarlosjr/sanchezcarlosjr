@@ -18,4 +18,4 @@ Carlos Eduardo Sanchez Torres out.
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://x.sanchezcarlosjr.com/youtube">Youtube</a> or <a href="https://sanchezcarlosjr.com/">Web</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Research</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/carlos-eduardo-sanchez-torres/">https://www.linkedin.com/in/carlos-eduardo-sanchez-torres/</a> 💼
+- Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
