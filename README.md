@@ -1,7 +1,7 @@
 ### Hi there 👋💻
 🙋 A computer scientist for want of a better word. I'm committed to The singularity, and into 3 comas community.
 
-Carlos Sánchez helps high-tech product companies to create successful products, happy customers, and of course, to achieve your key results, as a full-stack developer -computer scientist- with Git, VueJS, Laravel, Python, Docker, Linux, and so on. His next step will grow as a product manager and learn about intelligence artificial -deep learning-.
+Carlos Eduardo Sánchez Torres helps high-tech product companies to create successful products, happy customers, and of course, to achieve your key results, as a full-stack developer -computer scientist- with Git, VueJS, Laravel, Python, Docker, Linux, and so on. His next step will grow as a product manager and learn about intelligence artificial -deep learning-.
 
 
 Do you want a free list of awesome computer science and his business?
