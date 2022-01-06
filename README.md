@@ -19,3 +19,5 @@ Carlos Eduardo Sanchez Torres out.
 - Learning in public on <a href="https://x.sanchezcarlosjr.com/youtube">Youtube</a> or <a href="https://sanchezcarlosjr.com/">Web</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Research</a> 🏓
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
+
+Temp
