@@ -11,7 +11,7 @@ Do you want a free list of awesome computer science and his business?
 * https://sanchezcarlosjr.medium.com/
 * My alternative résumé to download pdf: https://x.sanchezcarlosjr.com/carlos-eduardo-sanchez-torres
 
-Carlos Eduardo Sanchez Torres out.
+Carlos Eduardo Sanchez Torres X out.
 
 [![Resume](http://img.youtube.com/vi/z5k5sTBLxo4/0.jpg)](http://www.youtube.com/watch?v=z5k5sTBLxo4 "How to create a resume?")
 
