@@ -5,7 +5,7 @@ Carlos Eduardo Sánchez Torres helps high-tech product companies to create succe
 
 
 Do you want a free list of awesome computer science and his business?
-* https://x.sanchezcarlosjr.com/computer-science
+* https://x.sanchezcarlosjr.com/computer-science (My computer science notes, code, ...)
 * https://x.sanchezcarlosjr.com/ideas
 * https://sanchezcarlosjr.com/
 * https://sanchezcarlosjr.medium.com/
