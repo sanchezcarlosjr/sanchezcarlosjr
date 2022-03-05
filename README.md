@@ -21,5 +21,5 @@ Carlos Eduardo Sanchez Torres out.
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
 
 ## If you have firewall on your company:
-https://sanchezcarlosjr.notion.site/b75185a17dbc48ec85018e7d1a18b054?v=6fefd7ded7fc4c289dbc957abf46814f
-https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93
+[Computer science](https://sanchezcarlosjr.notion.site/b75185a17dbc48ec85018e7d1a18b054?v=6fefd7ded7fc4c289dbc957abf46814f)
+[Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
