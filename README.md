@@ -3,6 +3,10 @@
 
 Carlos Eduardo Sánchez Torres helps high-tech product companies to create successful products, happy customers, and of course, to achieve your key results, as a full-stack developer -computer scientist- with Git, VueJS, Laravel, Python, Docker, Linux, and so on. His next step will grow as a product manager and learn about intelligence artificial -deep learning-.
 
+### ⚙️ &nbsp;GitHub Analytics
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=sanchezcarlosjr&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezcarlosjr&layout=compact&theme=gotham)](https://github.com/sanchezcarlosjr/)
+
+
 Do you want a free list of awesome computer science and his business?
 * https://x.sanchezcarlosjr.com/computer-science (My computer science notes, code, ...)
 * https://x.sanchezcarlosjr.com/ideas
