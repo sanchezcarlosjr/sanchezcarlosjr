@@ -1,7 +1,16 @@
 ### Hi there 👋💻
 🙋 A computer scientist for want of a better word. I'm committed to The singularity, and into 3 comas community.
 
-Carlos Eduardo Sánchez Torres helps high-tech product companies to create successful products, happy customers, and of course, to achieve your key results, as a full-stack developer -computer scientist- with Git, VueJS, Laravel, Python, Docker, Linux, and so on. His next step will grow as a product manager and learn about intelligence artificial -deep learning-.
+I’m working with high-tech product companies to develop successful products, happy customers, and of course, to achieve their key results, as a full-stack developer -computer scientist, algorithms, database- with Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My next step is to become a product manager and learn about artificial intelligence.
+
+Do you want a free list of awesome computer science and his business?
+* https://x.sanchezcarlosjr.com/computer-science
+* https://x.sanchezcarlosjr.com/youtube
+* https://sanchezcarlosjr.com/
+* https://github.com/sanchezcarlosjr/
+* All my projects on https://sanchezcarlosjr.com/research
+* My alternative résumé to download pdf: https://x.sanchezcarlosjr.com/carlos-eduardo-sanchez-torres
+Carlos Eduardo Sanchez Torres out.
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=sanchezcarlosjr&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezcarlosjr&layout=compact&theme=gotham)](https://github.com/sanchezcarlosjr/)
