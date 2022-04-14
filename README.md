@@ -8,7 +8,7 @@ Do you want a free list of awesome computer science and his business?
 * https://x.sanchezcarlosjr.com/youtube
 * https://sanchezcarlosjr.com/
 * https://github.com/sanchezcarlosjr/
-* All my projects on https://sanchezcarlosjr.com/research
+* All my projects on https://sanchezcarlosjr.com/research or https://sanchezcarlosjr.com/projects
 * My alternative résumé to download pdf: https://x.sanchezcarlosjr.com/carlos-eduardo-sanchez-torres
 Carlos Eduardo Sanchez Torres out.
 
