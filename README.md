@@ -15,16 +15,6 @@ Carlos Eduardo Sanchez Torres out.
 ### ⚙️ &nbsp;GitHub Analytics
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=sanchezcarlosjr&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezcarlosjr&layout=compact&theme=gotham)](https://github.com/sanchezcarlosjr/)
 
-
-Do you want a free list of awesome computer science and his business?
-* https://x.sanchezcarlosjr.com/computer-science (My computer science notes, code, ...)
-* https://x.sanchezcarlosjr.com/ideas
-* https://sanchezcarlosjr.com/
-* https://sanchezcarlosjr.medium.com/
-* My alternative résumé to download pdf: https://x.sanchezcarlosjr.com/carlos-eduardo-sanchez-torres
-
-Carlos Eduardo Sanchez Torres out.
-
 [![Resume](http://img.youtube.com/vi/z5k5sTBLxo4/0.jpg)](http://www.youtube.com/watch?v=z5k5sTBLxo4 "How to create a resume?")
 
 ## Find me around the web 🌎: 
