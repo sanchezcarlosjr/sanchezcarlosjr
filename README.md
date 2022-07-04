@@ -1,14 +1,14 @@
 ### Hi there 👋💻
 🙋 A computer scientist for want of a better word.
 
-I’m working with high-tech product companies to develop successful products, happy customers, and of course, to achieve their key results, as a full-stack developer -computer scientist, algorithms, database- with Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
+I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
-Do you want a free list of awesome computer science and his business?
+Do you want an excellent computer science list?
 * https://x.sanchezcarlosjr.com/computer-science
 * https://x.sanchezcarlosjr.com/youtube
 * https://sanchezcarlosjr.com/
 * https://github.com/sanchezcarlosjr/
-* All my projects on https://sanchezcarlosjr.com/research or https://sanchezcarlosjr.com/projects
+* All my projects on https://sanchezcarlosjr.com/research
 * My alternative résumé to download pdf: https://x.sanchezcarlosjr.com/carlos-eduardo-sanchez-torres
 Carlos Eduardo Sanchez Torres out.
 
