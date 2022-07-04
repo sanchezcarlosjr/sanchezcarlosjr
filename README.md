@@ -1,5 +1,5 @@
 ### Hi there 👋💻
-🙋 A computer scientist for want of a better word. I'm committed to The singularity, and into 3 comas community.
+🙋 A computer scientist for want of a better word.
 
 I’m working with high-tech product companies to develop successful products, happy customers, and of course, to achieve their key results, as a full-stack developer -computer scientist, algorithms, database- with Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
