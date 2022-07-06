@@ -1,7 +1,5 @@
 ### Hi there 👋💻
-🙋 A computer scientist for want of a better word.
-
-I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
+🙋 I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
 Do you want an excellent computer science list?
 * https://x.sanchezcarlosjr.com/computer-science
