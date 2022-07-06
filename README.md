@@ -1,7 +1,7 @@
 ### Hi there 👋💻
 🙋 I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
-Do you want an excellent computer science list?
+Do you want to learn computer science from scratch?
 * https://x.sanchezcarlosjr.com/computer-science
 * https://x.sanchezcarlosjr.com/youtube
 * https://sanchezcarlosjr.com/
