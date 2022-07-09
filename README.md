@@ -20,14 +20,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=sanchezcarlosjr&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezcarlosjr&layout=compact&theme=gotham)](https://github.com/sanchezcarlosjr/)
 
-[![Resume](http://img.youtube.com/vi/z5k5sTBLxo4/0.jpg)](http://www.youtube.com/watch?v=z5k5sTBLxo4 "How to create a resume?")
-
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://x.sanchezcarlosjr.com/youtube">Youtube</a> or <a href="https://sanchezcarlosjr.com/">Web</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Projects</a> 🏓
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
 
-## If you have firewall on your company:
+> If you have firewall on your company:
 [Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,3 +44,4 @@
 https://github.com/anuraghazra/github-readme-stats
 https://shields.io/
 https://www.flaticon.com/
+https://github.com/gautamkrishnar/blog-post-workflow
