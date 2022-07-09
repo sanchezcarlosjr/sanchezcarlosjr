@@ -9,6 +9,11 @@
 
 # New videos on my YouTube Channel
 <!-- YOUTUBE-LIST:START -->
+- [Theory of computation project](https://www.youtube.com/watch?v=ErrEkb-0yrA)
+- [2001 A Space Odyssey Opening in blender](https://www.youtube.com/watch?v=8WpAkU5W9Os)
+- [Algoritmos evolutivos para elegir un portafolio de inversión en la web &lpar;webassembly  y C++&rpar;](https://www.youtube.com/watch?v=v8mIy7JeLb0)
+- [Modelling -  Computer graphics](https://www.youtube.com/watch?v=8NkgmvGzU7I)
+- [Falling Ball - Computer graphics](https://www.youtube.com/watch?v=tZfIPQg02aU)
 <!-- YOUTUBE-LIST:END -->
 
 
