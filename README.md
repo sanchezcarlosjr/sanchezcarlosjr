@@ -25,7 +25,7 @@
 - Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Projects</a> 🏓
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
 
-> If you have firewall on your company:
+>
 [Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
 
 ### 🛠 &nbsp;Tech Stack
