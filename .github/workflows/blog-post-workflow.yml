@@ -15,3 +15,13 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://sanchezcarlosjr.medium.com/feed"
+  update-readme-with-youtube:
+    name: Update this repo's README with latest activity from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          commit_message: "Updated readme with the latest YouTube data"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUzvgrtcAM2Mj2PpqUN64Lg"
