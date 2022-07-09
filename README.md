@@ -1,4 +1,4 @@
-### Hi there 👋💻
+# Hi there <a href="https://sanchezcarlosjr.com//"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 🙋 I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
 # Learn cool stuff!
