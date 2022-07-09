@@ -25,8 +25,7 @@
 - Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Projects</a> 🏓
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
 
->
-[Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
+> [Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
