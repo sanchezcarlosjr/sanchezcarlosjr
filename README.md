@@ -26,7 +26,7 @@
 
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://x.sanchezcarlosjr.com/youtube">Youtube</a> or <a href="https://sanchezcarlosjr.com/">Web</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Projects</a> 🏓
+- Tinkering with interactions on <a href="https://sanchezcarlosjr.com/research"> Projects</a> 🏓
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
 
 > [Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
