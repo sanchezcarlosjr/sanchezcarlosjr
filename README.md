@@ -1,14 +1,9 @@
 ### Hi there 👋💻
 🙋 I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
-Do you want to learn computer science from scratch?
-* https://x.sanchezcarlosjr.com/computer-science
-* https://x.sanchezcarlosjr.com/youtube
-* https://sanchezcarlosjr.com/
-* https://github.com/sanchezcarlosjr/
-* All my projects on https://sanchezcarlosjr.com/research
-* My alternative résumé to download pdf: https://x.sanchezcarlosjr.com/carlos-eduardo-sanchez-torres
-Carlos Eduardo Sanchez Torres out.
+# Learn cool stuff!
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=sanchezcarlosjr&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezcarlosjr&layout=compact&theme=gotham)](https://github.com/sanchezcarlosjr/)
