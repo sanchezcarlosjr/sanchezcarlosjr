@@ -1,8 +1,6 @@
 # Hi there <a href="https://sanchezcarlosjr.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/CharllierJr?color=%231DA1F2&label=Follow&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/CharllierJr) 
-
-[![YouTube Subscribe](https://img.shields.io/badge/escr%C3%ADbeme-ZeroDragon-%2326A5E4?style=for-the-badge&logo=telegram)](https://t.me/zerodragon)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CharllierJr?color=%231DA1F2&label=Follow&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/CharllierJr)  [[![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCUzvgrtcAM2Mj2PpqUN64Lg?label=Subscribe&style=social](https://www.youtube.com/c/CarlosSanchezExplica/)]
 
 
 🙋 I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
