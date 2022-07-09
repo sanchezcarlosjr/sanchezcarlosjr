@@ -1,4 +1,4 @@
-# Hi there <a href="https://sanchezcarlosjr.com//"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi there <a href="https://sanchezcarlosjr.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 🙋 I’m working as a software developer in high-tech product companies developing successful products and creating happy customers, and of course, achieving their key results with computer science, algorithms, database, Git, React, Laravel, Python, PostgreSQL, Docker, Linux, and so on. My current step is understanding the world before transforming it. 
 
 # Learn cool stuff!
@@ -7,6 +7,11 @@
 - [Carta de motivos para participar en el Programa Delfín](https://sanchezcarlosjr.medium.com/carta-de-motivos-para-participar-en-el-programa-delf%C3%ADn-63f86530d9a7?source=rss-c7298fe9857c------2)
 <!-- BLOG-POST-LIST:END -->
 
+# New videos on my YouTube Channel
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=sanchezcarlosjr&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezcarlosjr&layout=compact&theme=gotham)](https://github.com/sanchezcarlosjr/)
 
@@ -14,11 +19,10 @@
 
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://x.sanchezcarlosjr.com/youtube">Youtube</a> or <a href="https://sanchezcarlosjr.com/">Web</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Research</a> 🏓
+- Tinkering with interactions on <a href="hhttps://sanchezcarlosjr.com/research"> Projects</a> 🏓
 - Sharing updates on <a href="https://x.sanchezcarlosjr.com/linkedin">https://x.sanchezcarlosjr.com/linkedin/</a> 💼
 
 ## If you have firewall on your company:
-[Computer science](https://sanchezcarlosjr.notion.site/b75185a17dbc48ec85018e7d1a18b054?v=6fefd7ded7fc4c289dbc957abf46814f)
 [Contact](https://sanchezcarlosjr.notion.site/Carlos-Eduardo-S-nchez-Torres-d80df9eb663f440aa8076c6422c54a93)
 
 ### 🛠 &nbsp;Tech Stack
