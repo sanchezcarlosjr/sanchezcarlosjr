@@ -3,6 +3,8 @@
 
 # Learn cool stuff!
 <!-- BLOG-POST-LIST:START -->
+- [No te ilusiones con la tecnología](https://sanchezcarlosjr.medium.com/no-te-ilusiones-con-la-tecnolog%C3%ADa-4773acbef7c8?source=rss-c7298fe9857c------2)
+- [Carta de motivos para participar en el Programa Delfín](https://sanchezcarlosjr.medium.com/carta-de-motivos-para-participar-en-el-programa-delf%C3%ADn-63f86530d9a7?source=rss-c7298fe9857c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ &nbsp;GitHub Analytics
