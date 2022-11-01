@@ -15,11 +15,11 @@
 
 # New videos on my YouTube Channel
 <!-- YOUTUBE-LIST:START -->
+- [Explicación de Topologías de red en CISCO Packet Tracer 2022](https://www.youtube.com/watch?v=-dBb0BgH-3A)
 - [La historia de México: enfoque social, econónomico y tecnólogico](https://www.youtube.com/watch?v=Sb8E-Z1ZxTE)
 - [¿Cómo contribuir a la ciencia o investigar en México? Programa Delfín](https://www.youtube.com/watch?v=D8qmX108ttQ)
 - [Theory of computation project](https://www.youtube.com/watch?v=ErrEkb-0yrA)
 - [2001 A Space Odyssey Opening in blender](https://www.youtube.com/watch?v=8WpAkU5W9Os)
-- [Algoritmos evolutivos para elegir un portafolio de inversión en la web &lpar;webassembly  y C++&rpar;](https://www.youtube.com/watch?v=v8mIy7JeLb0)
 <!-- YOUTUBE-LIST:END -->
 
 
