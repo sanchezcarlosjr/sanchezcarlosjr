@@ -15,11 +15,11 @@
 
 # New videos on my YouTube Channel
 <!-- YOUTUBE-LIST:START -->
-- [Explicación de Topologías de red en CISCO Packet Tracer 2022](https://www.youtube.com/watch?v=-dBb0BgH-3A)
-- [La historia de México: enfoque social, econónomico y tecnólogico](https://www.youtube.com/watch?v=Sb8E-Z1ZxTE)
-- [¿Cómo contribuir a la ciencia o investigar en México? Programa Delfín](https://www.youtube.com/watch?v=D8qmX108ttQ)
-- [Theory of computation project](https://www.youtube.com/watch?v=ErrEkb-0yrA)
-- [2001 A Space Odyssey Opening in blender](https://www.youtube.com/watch?v=8WpAkU5W9Os)
+- [WLAN en CISCO Packet Tracer](https://www.youtube.com/watch?v=f_gawU1SfHg)
+- [VLAN en CISCO Packet Tracer](https://www.youtube.com/watch?v=Ll3ujQ0Z8fs)
+- [Desempleo y migración en el Neoliberalismo](https://www.youtube.com/watch?v=R1UI5bJDQHU)
+- [Servidor Web en CISCO Packet Tracer](https://www.youtube.com/watch?v=EEgkmFeJPS4)
+- [DCHP en CISCO Packet Tracer](https://www.youtube.com/watch?v=yc-_S-hI-f8)
 <!-- YOUTUBE-LIST:END -->
 
 
