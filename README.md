@@ -13,7 +13,6 @@ I'm interested in understanding the Theory of Computation, Artificial Intelligen
 - [Inteligencia ¿el ataque a tu libertad? o ¿la actividad para ir a un mundo feliz?](https://sanchezcarlosjr.medium.com/inteligencia-el-ataque-a-tu-libertad-o-la-actividad-para-ir-a-un-mundo-feliz-9ce1a08c28e7?source=rss-c7298fe9857c------2)
 - [Make your own minicompiler &lpar;aka parser&rpar; on the Web in Plain English &lpar;Calculator with C++&rpar;](https://sanchezcarlosjr.medium.com/make-your-own-minicompiler-aka-parser-on-the-web-in-plain-english-calculator-with-c-fec9b9bb4970?source=rss-c7298fe9857c------2)
 - [No te ilusiones con la tecnología](https://sanchezcarlosjr.medium.com/no-te-ilusiones-con-la-tecnolog%C3%ADa-4773acbef7c8?source=rss-c7298fe9857c------2)
-- [Carta de motivos para participar en el Programa Delfín](https://sanchezcarlosjr.medium.com/carta-de-motivos-para-participar-en-el-programa-delf%C3%ADn-63f86530d9a7?source=rss-c7298fe9857c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # New videos on my YouTube Channel
