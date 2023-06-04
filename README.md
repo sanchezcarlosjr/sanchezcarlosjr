@@ -1,6 +1,6 @@
 # Hi there <a href="https://sanchezcarlosjr.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/CharllierJr?color=%231DA1F2&label=Follow&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/CharllierJr)  [![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCUzvgrtcAM2Mj2PpqUN64Lg?label=Subscribe&style=social)](https://www.youtube.com/c/CarlosSanchezExplica/)
+[![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCUzvgrtcAM2Mj2PpqUN64Lg?label=Subscribe&style=social)](https://www.youtube.com/c/CarlosSanchezExplica/)
 
 
 🙋 An experienced computer scientist with expertise in web-based software development and a commitment to 
