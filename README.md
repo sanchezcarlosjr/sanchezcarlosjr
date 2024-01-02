@@ -2,10 +2,6 @@
 
 [![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCUzvgrtcAM2Mj2PpqUN64Lg?label=Subscribe&style=social)](https://www.youtube.com/c/CarlosSanchezExplica/)
 
-
-🙋 An experienced computer scientist with expertise in web-based software development and a commitment to 
-excellence.
-
 I'm interested in understanding the Theory of Computation, Artificial Intelligence, and Computer science in general too.
 
 # Learn cool stuff!
